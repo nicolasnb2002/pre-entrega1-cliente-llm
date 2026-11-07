@@ -1,0 +1,6 @@
+# Bibliotecas que pide la consigna.
+# Estas versiones son las que se usaron para correr las pruebas locales.
+openai==3.46.0
+anthropic==2.6.0
+pydantic==2.14.3
+python-dotenv==1.2.4
